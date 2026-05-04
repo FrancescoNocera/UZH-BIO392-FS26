@@ -4,6 +4,7 @@
 ## Definition WES & WGS
 
 WES = Whole Exome Sequencing
+
 WGS = Whole genome sequecing
 
 ### Assumptions
