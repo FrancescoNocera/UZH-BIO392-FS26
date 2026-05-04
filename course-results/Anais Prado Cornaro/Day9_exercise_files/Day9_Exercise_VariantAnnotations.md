@@ -40,10 +40,10 @@ __I chose a varinat on chr14 at position: chr14:19’827’675__
 
 # IGV structural varinat analysis
 
-## chr1: 37350877 - 37351115
+## chr1: 37350877 - 37351115
 * __type of structural variant:__
     * _When zooming out of the given sequence, one can clearly see that there is region (~ 250bps), where there is very low read coverage, when reads are mapped to the reference_
-     * _This indicates taht there is a deletion_
+     * _This indicates taht there is a __deletion___
     * _In addition to that, there are many red colored reads ligning "the border", which indicates that they ar e"abnormally" large read sizes, which also hints to a deletion, as the read len (when using refernce coordinates) is way larger then it actally is, hence abnormal. This one can see better in the second image_
 
 * __IGV screenshot confirming the event:__
@@ -52,14 +52,14 @@ __I chose a varinat on chr14 at position: chr14:19’827’675__
 
 ## chr1: 41369871 - 41369871
 * __type of structural variant:__
-    * _the variant is a insertion of C (confirmed by a single read)_
+    * _the variant is a __insertion__ of C (confirmed by a single read)_
 
 * __IGV screenshot confirming the event:__
 <img title="IVG Screenshot for structural variant at chr1: 41369871" src="structural_variant_chr1_41369871.png">
 
-## chr2: 117564013 - 117572037
+## chr2: 117564013 - 117572037
 * __type of structural variant:__
-    * _I think this is a duplication_
+    * _I think this is a __duplication___
     * _On the top one can see a group of reads, colored green, which implies duplication_
     * _In addition (when using the option "group by pair orientation") we see that the green pairs have an RL orientation,w hich also implies duplication_
 * __IGV screenshot confirming the event:__
