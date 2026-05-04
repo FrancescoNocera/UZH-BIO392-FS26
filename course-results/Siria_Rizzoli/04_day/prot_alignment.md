@@ -1,7 +1,7 @@
 # Sequence alignment Homework 
 ## Compare the HBA1, HBA2 and HBB gene on DNA and protein level
 ### Homo sapiens - DNA level: 
-* HBA1 vs HBA2 (EMBOSS Stretch)
+* HBA1 vs HBA2 (EMBOSS Water)
 Aligned_sequences: 2
  1: JQ423459.1
  2: GU145033.1
