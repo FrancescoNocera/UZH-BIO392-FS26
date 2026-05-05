@@ -1,0 +1,6 @@
+data/
+db/
+output/
+reference/
+reference_chr22/
+tmp/
